@@ -1,0 +1,22 @@
+# Core data science libraries
+numpy>=1.26.4
+pandas>=2.2.3
+
+# Machine learning
+scikit-learn>=1.5.2
+
+# Visualization
+matplotlib>=3.9.2
+seaborn>=0.13.2
+
+# Jupyter notebook
+jupyter>=1.0.0
+ipython>=8.0.0
+
+# Optional: for better notebook experience
+jupyterlab>=4.0.0
+
+# Development tools (optional)
+# black>=23.0.0
+# flake8>=6.0.0
+# pytest>=7.0.0
